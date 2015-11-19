@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/uberbrodt/imagick/imagick"
+	"github.com/uberbrodt/signal_deadlock_example/Godeps/_workspace/src/github.com/uberbrodt/imagick/imagick"
 	"log"
 	"net/http"
 	"runtime"

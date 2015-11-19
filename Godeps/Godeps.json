@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/uberbrodt/signal_deadlock_example",
+	"GoVersion": "go1.4.2",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/uberbrodt/imagick/imagick",
+			"Comment": "0.0.1-67-ga390ed4",
+			"Rev": "a390ed48e464333a975e35ca2f79b82bd8db00ab"
+		}
+	]
+}
